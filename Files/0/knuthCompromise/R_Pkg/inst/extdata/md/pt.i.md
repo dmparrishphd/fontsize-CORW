@@ -8,8 +8,9 @@ Usage
 
     pt.i(i)
     
-| Argument: | :Description       |
-|         i | An `integer` index |
+| Argument | Description        |
+| -------: | :----------------- |
+|        i | An `integer` index |
 
 Value
 -----
