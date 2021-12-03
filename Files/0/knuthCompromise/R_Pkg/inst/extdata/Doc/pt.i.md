@@ -18,7 +18,7 @@ Value
 The point size as a `double`.
 
 If the corresponding `double` value would be larger than the greatest `double` value
-with at a precision of at least `1`, `NA_real_` is returned.
+with a precision of at least `1`, `NA_real_` is returned.
 
 Details
 -------
